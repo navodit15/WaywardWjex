@@ -1,4 +1,4 @@
-## What to look for? 
+## THE NEXT BIG THING? 
 ## Part (1/2)
  This blog is mostly what i have understood reading research stuff from both ends of the spectrum about good and bad consequences of AI and what I have been able to infer throughout my adventures of reading these papers.
 
@@ -42,7 +42,7 @@ Ray Kurzweil 's book Singularity is near is also a great read . Kurzweil believe
 
 ### My understanding and views
 
- From what i understand there will be an explosion in the field of AI and at some point in the near future we will have machines that will be able to most of human work way better than we would have ever been able to do. 
+ From what i understand there will be an explosion in the field of AI and Computer Science in general at some point in the near future we will have machines that will be able to most of human work way better than we would have ever been able to do. 
 
 For an example when Garry Kasparov lost to deep-blue he said that humans can work with machines to improve in the game and have a better understanding , but cut to today I've heard this a lot from top players how computers have killed the creativity in chess , a reason i think of is the ability to start from scratch and develop an understanding which is beyond human understanding . The concept of trying to win but by no matter what margin changes how we and machines evaluate the games or in general problems . Another example is protein folding done by deepmind.
 
@@ -69,3 +69,5 @@ The Sam Altman Blog mentioned below tackles some problems of wealth distribution
 - Hawking's and Einstein's fear of losing control to superintelligent machines 
 
 
+#### SIDE NOTE > This is my first time sharing what i write so there is i high chance that What I tried to write here doesn't make a lot sense to the reader . If it does I will finish part 2 which is more of my thoughts and examples which is still WIP. 
+####           > Also feel free to harass me on my writing skills.
