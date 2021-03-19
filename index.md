@@ -1,4 +1,4 @@
-## Technology today and tomorrow. 
+## What to look for? 
 
  This blog is mostly what i have understood reading research stuff from both ends of the spectrum about good and bad consequences of AI and what I have been able to infer throughout my adventures of reading these papers.
 
@@ -6,7 +6,7 @@ Spoiler : I'am no PHD and everything I say here is just what i understood after 
 
 On one side are People like Nick Bostrom , Elon Musk themselves being skeptical about the idea of super intelligent AI  . And on the other end are a people like Eliezer Yudkowsky ,Ben Goertzel ,Geohot to name a few people who i admire who believe that Technological singularity is nearer. 
 
-I haven't actually gotten time to read Super-intelligence by Bostrom as a whole , but i have read bits of it and heard his various talks and podcasts.  I have also carefully listened to Elon Musk's take on Superintelligent AI. Some of the issues raised make a lot of sense , for example Elon mentions in on of his talks  how humans do not have an issue with ants but while building highways we do destroy ant holes without a second thoughts.
+I haven't actually gotten time to read Super-intelligence by Bostrom as a whole , but i have read bits of it and heard his various talks and podcasts.  I have also carefully listened to Elon Musk's take on Superintelligent AI. Some of the issues raised make a lot of sense , for example Elon mentions in on of his talks  how humans do not have an issue with ants but while building highways we do destroy ant holes without a second thoughts. so "What if" in the near future some smarter AI thinks of us being the way of the next advancement and does the same to us as we do to those ants.
 
  
 
@@ -16,7 +16,7 @@ Now to put into perspective of how a normal person from the general population t
 
 Even after talking to people around my age and similar field of interest . I found most of these people had misconceptions at philosophical level and had misunderstanding about the same . 
 
--- Fascinating real-world applications
+#### Fascinating real-world applications
 
 The people pioneering in AI , Deep learning and their applications more visible to wider public like Andrej Karpathy , Demis Hassabis , Yann Lecun to name a few and a lot's of AI researcher's I've been looking at their reaches in my free time and it's astounding with the progress and ways of thinking about problems have been developed in recent times.
 
@@ -38,7 +38,7 @@ Wikipedia defines technological singularity as a hypothetical point in time at w
 
 Ray Kurzweil 's book Singularity is near is also a great read . Kurzweil believes that by the year 2045 we will experience the greatest technological singularity in the history of mankind: the kind that could, in just a few years, overturn the institutes and pillars of society and completely change the way we view ourselves as human beings.
 
-[Here](link) is a good explanation for singularity.
+[Here](https://www.youtube.com/watch?v=NLQNBfI97Ck) is a good explanation for singularity.
 
 ### My understanding and views
 
@@ -60,7 +60,7 @@ The Sam Altman Blog mentioned below tackles some problems of wealth distribution
 
 - Another not so related by super interesting read is Isaac Asimov's The Last Question.
 
-### Problems 
+### Problems and Issues raised 
 
 - Failure of the thought from a philosophical Point of view.
 
