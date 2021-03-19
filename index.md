@@ -32,7 +32,7 @@ And a lots of stuff being worked upon at Google Deepmind , OpenAI alongside a lo
 
 ### The question here is What is singularity ?
 
-If you simply google the term Wikipedia tells you that is an Physics about a point in space time where gravitation field of a celestial body becomes infinite . This is not what I'm taking about here . The Singularity  I'm talking about here is technological singularity .
+If you simply google the term then Wikipedia tells you that is an Physics about a point in space time where gravitation field of a celestial body becomes infinite . This is not what I'm taking about here . The Singularity  I'm talking about here is technological singularity .
 
 Wikipedia defines technological singularity as a hypothetical point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization. Reading about Technological Singularity is one of the things that has had an impact of how I have started to look at things in general myself . Reading Yudkowsky's paper opened an entire new way of seeing things for me . I've been fascinated by this . 
 
