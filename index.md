@@ -1,11 +1,11 @@
-# THE NEXT BIG THING!
+# **THE NEXT BIG THING!**
 ## Part (1/2)
  This blog is mostly what i have understood reading research stuff from both ends of the spectrum about good and bad consequences of AI and what I have been able to infer throughout my adventures of reading these papers.
 
 Spoiler : I'am no PHD and everything I say here is just what I understood after reading papers written by those pioneers .
 
 ### A Dystopian Future
-On one side are people like [Nick Bostrom](https://www.nickbostrom.com/) , [Elon Musk] themselves being skeptical about the idea of super intelligent AI  . And on the other end are a people like [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) ,[Ben Goertzel](https://goertzel.org) ,[George Hotz] to name a few people who I admire who believe that Technological singularity is nearer.
+On one side are people like [Nick Bostrom](https://www.nickbostrom.com/) , [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) themselves being skeptical about the idea of super intelligent AI  . And on the other end are a people like [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) ,[Ben Goertzel](https://goertzel.org) ,[George Hotz](http://geohot.com/) to name a few people who I admire who believe that Technological singularity is nearer.
 
 I haven't actually gotten time to read Super-intelligence by Bostrom as a whole , but i have read bits of it and heard his various talks and podcasts.  I have also carefully listened to Elon Musk's take on Superintelligent AI. Some of the issues raised make a lot of sense , for example Elon mentions in on of his talks  how humans do not have an issue with ants but while building highways we do destroy ant holes without a second thoughts. so "What if" in the near future some smarter AI thinks of us being the way of the next advancement and does the same to us as we do to those ants.
 
