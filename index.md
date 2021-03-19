@@ -1,4 +1,4 @@
-## THE NEXT BIG THING?
+## THE NEXT BIG THING!
 ## Part (1/2)
  This blog is mostly what i have understood reading research stuff from both ends of the spectrum about good and bad consequences of AI and what I have been able to infer throughout my adventures of reading these papers.
 
