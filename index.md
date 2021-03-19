@@ -36,7 +36,7 @@ If you simply google the term then Wikipedia tells you that is an Physics about 
 
 Wikipedia defines technological singularity as a hypothetical point in time at which technological growth becomes uncontrollable and irreversible, resulting in unforeseeable changes to human civilization. Reading about Technological Singularity is one of the things that has had an impact of how I have started to look at things in general myself . Reading Yudkowsky's paper opened an entire new way of seeing things for me . I've been fascinated by this . 
 
-Ray Kurzweil 's book Singularity is near is also a great read . Kurzweil believes that by the year 2045 we will experience the greatest technological singularity in the history of mankind: the kind that could, in just a few years, overturn the institutes and pillars of society and completely change the way we view ourselves as human beings.
+Ray Kurzweil's book Singularity is near is also a great read . Kurzweil believes that by the year 2045 we will experience the greatest technological singularity in the history of mankind: the kind that could, in just a few years, overturn the institutes and pillars of society and completely change the way we view ourselves as human beings.
 
 [Here](https://www.youtube.com/watch?v=NLQNBfI97Ck) is a good explanation for singularity.
 
