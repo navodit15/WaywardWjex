@@ -5,14 +5,14 @@
 Spoiler : I'am no PHD and everything I say here is just what I understood after reading papers written by those pioneers .
 
 ### A Dystopian Future
-On one side are people like Nick Bostrom , Elon Musk themselves being skeptical about the idea of super intelligent AI  . And on the other end are a people like [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) ,[Ben Goertzel](https://goertzel.org) ,Geohot to name a few people who I admire who believe that Technological singularity is nearer.
+On one side are people like [Nick Bostrom](https://www.nickbostrom.com/) , [Elon Musk] themselves being skeptical about the idea of super intelligent AI  . And on the other end are a people like [Eliezer Yudkowsky](https://en.wikipedia.org/wiki/Eliezer_Yudkowsky) ,[Ben Goertzel](https://goertzel.org) ,[George Hotz] to name a few people who I admire who believe that Technological singularity is nearer.
 
 I haven't actually gotten time to read Super-intelligence by Bostrom as a whole , but i have read bits of it and heard his various talks and podcasts.  I have also carefully listened to Elon Musk's take on Superintelligent AI. Some of the issues raised make a lot of sense , for example Elon mentions in on of his talks  how humans do not have an issue with ants but while building highways we do destroy ant holes without a second thoughts. so "What if" in the near future some smarter AI thinks of us being the way of the next advancement and does the same to us as we do to those ants.
 
 
 ### A disparity in thinking
 
-Now to put into perspective of how a normal person from the general population thinks about AI , for most of them it's just a literal black box thing that's way smarter and for some reason would want to , at some point take over the world . It's not their fault either aharass lot of their views are influenced by stuff that is easy to digest and seems interesting the same ways movies do . A large chunk of this population are people use technology for their in their daily lives but are not aware what Artificial Intelligence  or how far we have come in recent years. There knowledge or views were mostly from highlights of some big AI news like AlphaGo beating Humans , having a very rough idea of how it worked . Other examples where one of news bits from twitter or reddit. A lot of people have their views influenced by movies like terminator etc, but as Yudkowsky puts it those are just movies and need to a stories of that sort to make it interesting for the general audiences. Now on that note The AlphaGo Documentary is a great watch as it show from different perspectives of people from different fields ranging from journalists to players , general audience to the research team that built it.
+Now to put into perspective of how a normal person from the general population thinks about AI , for most of them it's just a literal black box thing that's way smarter and for some reason would want to , at some point take over the world . It's not their fault either aharass lot of their views are influenced by stuff that is easy to digest and seems interesting the same ways movies do . A large chunk of this population are people use technology for their in their daily lives but are not aware what Artificial Intelligence  or how far we have come in recent years. There knowledge or views were mostly from highlights of some big AI news like [AlphaGo](https://deepmind.com/research/case-studies/alphago-the-story-so-far) beating Humans , having a very rough idea of how it worked . Other examples where one of news bits from twitter or reddit. A lot of people have their views influenced by movies like terminator etc, but as Yudkowsky puts it those are just movies and need to a stories of that sort to make it interesting for the general audiences. Now on that note The AlphaGo Documentary is a great watch as it show from different perspectives of people from different fields ranging from journalists to players , general audience to the research team that built it.
 
 Even after talking to people around my age and similar field of interest . I found most of these people had misconceptions at philosophical level and had misunderstanding about the same .
 
@@ -24,7 +24,7 @@ Some advancements that have occurred in recent times I've personally found dazzl
 
 - [Alphafold by Deepmind](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery) . AI solving proteins folding is huge.
 
-- Self driving cars - very broadly classified into Comma way and Tesla way of approaching a solution to self driving cars.
+- Self driving cars - very broadly classified into [Comma](https://comma.ai/) way and [Tesla] way of approaching a solution to self driving cars.
 
 - On the scarier side is AI developing deepfakes.
 
@@ -65,9 +65,10 @@ Also for the people who think tech dystopia is the future rather than singularit
 
 - I found this recent blog by Sam Altman (CEO Y-Combinator). The blog was titled " Moore's law for everything " [blog](https://moores.samaltman.com/). It is an interesting read , I would recommend everyone to read it . Here he talks about the sorts of changes that will occur for good in society once we achieve singularity . The economies will change massively. The lifestyles of people , but most of this will affect largely developed countries.
 
-- The clubhouse with Andrej Karpathy and Lex Fridman[link](https://www.youtube.com/watch?v=3OxEpGU1unA).
+- The clubhouse with Andrej Karpathy and Lex Fridman [link](https://www.youtube.com/watch?v=3OxEpGU1unA).
 
 - Another not so related but super interesting read is Isaac Asimov's [The Last Question](https://templatetraining.princeton.edu/sites/training/files/the_last_question_-_issac_asimov.pdf).
+
 
 ### Problems and Issues raised
 
