@@ -1,5 +1,5 @@
 ## What to look for? 
-
+## Part (1/2)
  This blog is mostly what i have understood reading research stuff from both ends of the spectrum about good and bad consequences of AI and what I have been able to infer throughout my adventures of reading these papers.
 
 Spoiler : I'am no PHD and everything I say here is just what i understood after reading papers written by those pioneers .
@@ -12,7 +12,7 @@ I haven't actually gotten time to read Super-intelligence by Bostrom as a whole 
 
 ### A disparity in thinking
 
-Now to put into perspective of how a normal person from the general population thinks about  AI . A lot of their views are influenced by stuff that is easy to digest and seems interesting the same ways movies do . A large chunk of this population are people use technology for their in their daily lives but are not aware what Artificial Intelligence  or how far we have come in recent years. There knowledge or views were mostly from highlights of some big AI news like AlphaGo beating Humans , having a very rough idea of how it worked . Other examples where one of news bits from twitter or reddit. A lot of people have their views influenced by movies like terminator etc, but as Yudkowsky puts it those are just movies and need to a stories of that sort to make it interesting for the general audiences. Now on that note The AlphaGo Documentary is a great watch as it show from different perspectives of people from different fields ranging from journalists to players , general audience to the research team that built it.
+Now to put into perspective of how a normal person from the general population thinks about  AI , for most of them it's just a literal black box thing that's way smarter and for some reason would want to , at some point take over the world . It's not their fault either aharass lot of their views are influenced by stuff that is easy to digest and seems interesting the same ways movies do . A large chunk of this population are people use technology for their in their daily lives but are not aware what Artificial Intelligence  or how far we have come in recent years. There knowledge or views were mostly from highlights of some big AI news like AlphaGo beating Humans , having a very rough idea of how it worked . Other examples where one of news bits from twitter or reddit. A lot of people have their views influenced by movies like terminator etc, but as Yudkowsky puts it those are just movies and need to a stories of that sort to make it interesting for the general audiences. Now on that note The AlphaGo Documentary is a great watch as it show from different perspectives of people from different fields ranging from journalists to players , general audience to the research team that built it.
 
 Even after talking to people around my age and similar field of interest . I found most of these people had misconceptions at philosophical level and had misunderstanding about the same . 
 
