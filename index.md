@@ -66,7 +66,7 @@ Also for the people who think tech dystopia is the future rather than singularit
 
 - The clubhouse with Andrej Karpathy and Lex Fridman.
 
-- Another not so related by super interesting read is Isaac Asimov's The Last Question.
+- Another not so related but super interesting read is Isaac Asimov's The Last Question.
 
 ### Problems and Issues raised
 
