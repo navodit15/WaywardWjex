@@ -24,7 +24,7 @@ Some advancements that have occurred in recent times I've personally found dazzl
 
 - [Alphafold by Deepmind](https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery) . AI solving proteins folding is huge.
 
-- Self driving cars - very broadly classified into [Comma](https://comma.ai/) way and [Tesla] way of approaching a solution to self driving cars.
+- Self driving cars - very broadly classified into [Comma](https://comma.ai/) way and [Tesla](https://www.tesla.com) way of approaching a solution to self driving cars.
 
 - On the scarier side is AI developing deepfakes.
 
