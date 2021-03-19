@@ -42,6 +42,7 @@ Ray Kurzweil 's book Singularity is near is also a great read . Kurzweil believe
 
 ### My understanding and views
 
+ Here I do not want to talk about the complex science under the hood , research work etc. But more about singularity as an abstract idea and its effects.
  From what i understand there will be an explosion in the field of AI and Computer Science in general at some point in the near future we will have machines that will be able to most of human work way better than we would have ever been able to do.
 
 For an example when Garry Kasparov lost to deep-blue he said that humans can work with machines to improve in the game and have a better understanding , but cut to today I've heard this a lot from top players how computers have killed the creativity in chess , a reason i think of is the ability to start from scratch and develop an understanding which is beyond human understanding . The concept of trying to win but by no matter what margin changes how we and machines evaluate the games or in general problems . Another example is protein folding done by deepmind. These examples imply that even though we cannot get to the answers ourselves we can use computers solve them for us and then study the result at a humanly pace and also use those results.
